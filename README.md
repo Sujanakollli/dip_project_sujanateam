@@ -62,6 +62,7 @@ Segmentation Metrics:
 Number of Objects: Total objects segmented.
 Average Object Size: Mean area of segmented objects.
 Sample Results (Python):
+![image](https://github.com/user-attachments/assets/43776943-3637-4ecd-b521-0dab6d0e60cf)
 
 Image Name	Edge Density	Mean Gradient Magnitude	Number of Objects	Average Object Size
 airplane_0000.jpg	0.0403	43.2911	54	324.40
