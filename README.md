@@ -73,11 +73,19 @@ Image Name	Edge Density	Mean Gradient Magnitude	Number of Objects	Average Object
 airplane_0000.jpg	0.0398	42.8912	52	310.20
 airplane_0001.jpg	0.0379	44.3215	45	178.90
 Comparison Between Python and MATLAB
+
+
+
 Aspect	Python	MATLAB
 Edge Detection	Flexible, customizable thresholds and tuning.	Fast implementation with built-in functions.
 Object Segmentation	Detected finer details with contour filtering.	Clean segmentation with built-in metrics.
 Performance	Handles large datasets effectively.	Ideal for rapid prototyping.
 Visualization	Requires additional libraries (e.g., Matplotlib).	Integrated visualization tools.
+
+
+
+
+
 Challenges and Learnings
 Challenges:
 Handling large datasets in MATLAB Online due to storage limits.
@@ -87,6 +95,13 @@ Learnings:
 Python offers high flexibility and scalability for custom workflows.
 MATLAB simplifies implementation with robust pre-built functions.
 Edge detection and segmentation heavily depend on preprocessing steps like grayscale conversion and noise removal.
+
+
+
+
+
+
+
 Conclusion and Future Work
 Conclusion:
 The project successfully implemented and compared edge detection and object segmentation using Python and MATLAB.
